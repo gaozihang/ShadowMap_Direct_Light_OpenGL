@@ -1,0 +1,10 @@
+﻿  源.cpp
+d:\result\c++\opengl4.3_test_program\opengl4.3_test_program\源.cpp(306): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+d:\result\c++\opengl4.3_test_program\opengl4.3_test_program\源.cpp(330): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+d:\result\c++\opengl4.3_test_program\opengl4.3_test_program\源.cpp(351): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\result\c++\opengl4.3_test_program\opengl4.3_test_program\源.cpp(352): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\result\c++\opengl4.3_test_program\opengl4.3_test_program\源.cpp(356): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\result\c++\opengl4.3_test_program\opengl4.3_test_program\源.cpp(357): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\result\c++\opengl4.3_test_program\opengl4.3_test_program\源.cpp(358): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\result\c++\opengl4.3_test_program\opengl4.3_test_program\源.cpp(359): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  opengl4.3_test_program.vcxproj -> D:\result\c++\opengl4.3_test_program\Debug\opengl4.3_test_program.exe
