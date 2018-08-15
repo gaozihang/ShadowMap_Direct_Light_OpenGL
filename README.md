@@ -1,5 +1,5 @@
-# ShadowMap_Point_Light_OpenGL
-ShadowMap_Point_Light_OpenGL4.3
+# ShadowMap_Direct_Light_OpenGL
+ShadowMap_Direct_Light_OpenGL4.3
 ## Shadow Mapping & Rendering：
 <center class="half">
 <img src="http://ota0mocmv.bkt.clouddn.com/shadowMap.png" width="50%" height="50%" />
